@@ -24,8 +24,6 @@ considera grupos de 5 elementos, si hay más de 5 se muestran por página
 permitiendo avanzar y retroceder según corresponda. Si se hace click sobre un encargo
 se debe mostrar la información de ese encargo.
 
-● Ver Viaje: se obtienen los datos del viaje correspondiente desde la base de datos y
-despliega la información.
+● Ver Viaje: se obtienen los datos del viaje correspondiente desde la base de datos y despliega la información.
 
-● Ver Encargo: se obtienen los datos del encargo correspondiente desde la base de
-datos y despliega la información.
+● Ver Encargo: se obtienen los datos del encargo correspondiente desde la base de datos y despliega la información.
