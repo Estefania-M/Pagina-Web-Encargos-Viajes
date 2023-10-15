@@ -1,4 +1,4 @@
-# Pagina-Web-Tarea-2
+# Pagina-Web-Encargos-Viajes
 Repositorio de una página web para agregar viajes y/o encargos para el curso de Desarrollo de Aplicaciones Web de la Universidad de Chile.
 
 En la página de inicio de la carperta cgi-bin se muestra el menú principal del sistema que tiene las opciones “Agregar Viaje”, “Agregar Encargo”,
